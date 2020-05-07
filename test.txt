@@ -1,2 +1,1 @@
-Hello txt
-do soemchanges for commit
+i don't want to have it on github
